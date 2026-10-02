@@ -51,7 +51,6 @@ jupyter notebook Python-Series03.ipynb      # then: Kernel > Restart & Run All
 | Noisy, low-pass filtered at 5 Hz | `[101]` / `[99]` | **1.0 Hz** |
 
 Over 300 noise realisations, the unfiltered estimate is correct in only 19 % of cases at 5 % noise, against 100 % after filtering.
-Details, the choice of the cutoff and the limits of the method are in [`ANALYSIS.md`](ANALYSIS.md).
 
 > The exact noisy numbers differ from the assignment's example because the noise is random.
 
